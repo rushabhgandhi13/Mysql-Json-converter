@@ -42,9 +42,8 @@ The project is a partial implementation to the research paper( [link](https://gi
 ---
 
 ###Details about the Research Paper
-Title: Data Conversion from Traditional Relational Database to MongoDB using XAMPP and NoSQL
-Find the link to the paper ( [link](https://github.com/rushabhgandhi13/Mysql-Json-converter/blob/main/Ieee_paper.pdf "link") )
-Find the explaination to the paper in the power point presention ( [link](https://github.com/rushabhgandhi13/Mysql-Json-converter/blob/main/ieee_1911012.pptx "link") )
+Title: Data Conversion from Traditional Relational Database to MongoDB using XAMPP and NoSQL.
+Find the link to the paper ( [link](https://github.com/rushabhgandhi13/Mysql-Json-converter/blob/main/Ieee_paper.pdf "link") ). Also find the explaination to the paper in the power point presention ( [link](https://github.com/rushabhgandhi13/Mysql-Json-converter/blob/main/ieee_1911012.pptx "link") )
 
 
 -Snapshots of the project :
@@ -52,6 +51,10 @@ Find the explaination to the paper in the power point presention ( [link](https:
 ![img](screenshots/ss1.png)
 ![img](screenshots/ss2.png)  
 ![img](screenshots/ss3.png)  
+![img](screenshots/ss4.png)  
+
+Finally the file gets stored in demo.json file
+![img](screenshots/ss5.png) 
 
 
 

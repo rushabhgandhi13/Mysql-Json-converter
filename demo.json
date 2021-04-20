@@ -1,12 +1,308 @@
 {
   "1": {
-    "manager": "Woodridge,Australia",
-    "store": "Jon Stephens",
-    "total_sales": null
+    "help_category_id": 0,
+    "name": "Contents",
+    "parent_category_id": 0,
+    "url": ""
   },
   "2": {
-    "manager": "Lethbridge,Canada",
-    "store": "Mike Hillyer",
-    "total_sales": null
+    "help_category_id": 1,
+    "name": "Help Metadata",
+    "parent_category_id": 0,
+    "url": ""
+  },
+  "3": {
+    "help_category_id": 2,
+    "name": "Data Types",
+    "parent_category_id": 0,
+    "url": ""
+  },
+  "4": {
+    "help_category_id": 3,
+    "name": "Administration",
+    "parent_category_id": 0,
+    "url": ""
+  },
+  "5": {
+    "help_category_id": 4,
+    "name": "Functions",
+    "parent_category_id": 0,
+    "url": ""
+  },
+  "6": {
+    "help_category_id": 5,
+    "name": "Enterprise Encryption Functions",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "7": {
+    "help_category_id": 6,
+    "name": "Language Structure",
+    "parent_category_id": 0,
+    "url": ""
+  },
+  "8": {
+    "help_category_id": 7,
+    "name": "Geographic Features",
+    "parent_category_id": 0,
+    "url": ""
+  },
+  "9": {
+    "help_category_id": 8,
+    "name": "MBR",
+    "parent_category_id": 7,
+    "url": ""
+  },
+  "10": {
+    "help_category_id": 9,
+    "name": "WKT",
+    "parent_category_id": 7,
+    "url": ""
+  },
+  "11": {
+    "help_category_id": 10,
+    "name": "Comparison Operators",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "12": {
+    "help_category_id": 11,
+    "name": "Logical Operators",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "13": {
+    "help_category_id": 12,
+    "name": "Flow Control Functions",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "14": {
+    "help_category_id": 13,
+    "name": "Numeric Functions",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "15": {
+    "help_category_id": 14,
+    "name": "Date and Time Functions",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "16": {
+    "help_category_id": 15,
+    "name": "String Functions",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "17": {
+    "help_category_id": 16,
+    "name": "Cast Functions and Operators",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "18": {
+    "help_category_id": 17,
+    "name": "XML",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "19": {
+    "help_category_id": 18,
+    "name": "Bit Functions",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "20": {
+    "help_category_id": 19,
+    "name": "Encryption Functions",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "21": {
+    "help_category_id": 20,
+    "name": "Locking Functions",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "22": {
+    "help_category_id": 21,
+    "name": "Information Functions",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "23": {
+    "help_category_id": 22,
+    "name": "Spatial Functions",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "24": {
+    "help_category_id": 23,
+    "name": "WKT Functions",
+    "parent_category_id": 22,
+    "url": ""
+  },
+  "25": {
+    "help_category_id": 24,
+    "name": "WKB Functions",
+    "parent_category_id": 22,
+    "url": ""
+  },
+  "26": {
+    "help_category_id": 25,
+    "name": "Geometry Constructors",
+    "parent_category_id": 22,
+    "url": ""
+  },
+  "27": {
+    "help_category_id": 26,
+    "name": "Geometry Property Functions",
+    "parent_category_id": 22,
+    "url": ""
+  },
+  "28": {
+    "help_category_id": 27,
+    "name": "Point Property Functions",
+    "parent_category_id": 22,
+    "url": ""
+  },
+  "29": {
+    "help_category_id": 28,
+    "name": "LineString Property Functions",
+    "parent_category_id": 22,
+    "url": ""
+  },
+  "30": {
+    "help_category_id": 29,
+    "name": "Polygon Property Functions",
+    "parent_category_id": 22,
+    "url": ""
+  },
+  "31": {
+    "help_category_id": 30,
+    "name": "GeometryCollection Property Functions",
+    "parent_category_id": 22,
+    "url": ""
+  },
+  "32": {
+    "help_category_id": 31,
+    "name": "Geometry Relation Functions",
+    "parent_category_id": 22,
+    "url": ""
+  },
+  "33": {
+    "help_category_id": 32,
+    "name": "MBR Functions",
+    "parent_category_id": 22,
+    "url": ""
+  },
+  "34": {
+    "help_category_id": 33,
+    "name": "GTID",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "35": {
+    "help_category_id": 34,
+    "name": "Aggregate Functions and Modifiers",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "36": {
+    "help_category_id": 35,
+    "name": "GROUP BY Functions and Modifiers",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "37": {
+    "help_category_id": 36,
+    "name": "Window Functions",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "38": {
+    "help_category_id": 37,
+    "name": "Performance Schema Functions",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "39": {
+    "help_category_id": 38,
+    "name": "Internal Functions",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "40": {
+    "help_category_id": 39,
+    "name": "Miscellaneous Functions",
+    "parent_category_id": 4,
+    "url": ""
+  },
+  "41": {
+    "help_category_id": 40,
+    "name": "Data Definition",
+    "parent_category_id": 0,
+    "url": ""
+  },
+  "42": {
+    "help_category_id": 41,
+    "name": "Data Manipulation",
+    "parent_category_id": 0,
+    "url": ""
+  },
+  "43": {
+    "help_category_id": 42,
+    "name": "Transactions",
+    "parent_category_id": 0,
+    "url": ""
+  },
+  "44": {
+    "help_category_id": 43,
+    "name": "Compound Statements",
+    "parent_category_id": 0,
+    "url": ""
+  },
+  "45": {
+    "help_category_id": 44,
+    "name": "Account Management",
+    "parent_category_id": 0,
+    "url": ""
+  },
+  "46": {
+    "help_category_id": 45,
+    "name": "Table Maintenance",
+    "parent_category_id": 0,
+    "url": ""
+  },
+  "47": {
+    "help_category_id": 46,
+    "name": "User-Defined Functions",
+    "parent_category_id": 0,
+    "url": ""
+  },
+  "48": {
+    "help_category_id": 47,
+    "name": "Components",
+    "parent_category_id": 0,
+    "url": ""
+  },
+  "49": {
+    "help_category_id": 48,
+    "name": "Plugins",
+    "parent_category_id": 0,
+    "url": ""
+  },
+  "50": {
+    "help_category_id": 49,
+    "name": "Utility",
+    "parent_category_id": 0,
+    "url": ""
+  },
+  "51": {
+    "help_category_id": 50,
+    "name": "Storage Engines",
+    "parent_category_id": 0,
+    "url": ""
   }
 }
