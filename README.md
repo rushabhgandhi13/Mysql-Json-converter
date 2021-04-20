@@ -3,7 +3,7 @@
   <br>
   <h3>A python code that fetches all the mysql schemas dynamically and converts the mysql data to json</h3>
 </div>
-
+---
 ### This project was developed as a part of second year Internal assessment
 #### Name-Rushabh Gandhi 
 #### Branch-Computer engineering -Sem 4 (B.tech)
@@ -15,14 +15,6 @@
 
 
 ---
-
--Snapshots of the project :
-
-![img](screenshots/ss1.png)
-![img](screenshots/ss2.png)  
-![img](screenshots/ss3.png)  
-
-
 
   
 ### To run this project :
@@ -45,6 +37,17 @@ python main.py
 
 ---
 #### About the project
+The project is a partial implementation to the research paper [link](www.google.com "link"). the code connects to the mysql server and dynamically fetches all the existing database. it then prompts to select one database on selection of the databse it fetchs all the tables existing in the databse selected and shows a prompt to select a table you want to convert into json and on selection of the table it displays all the json objects which are converted. And the finally the data gets stored in the demo.json file in the same directory. 
+
+---
+
+-Snapshots of the project :
+
+![img](screenshots/ss1.png)
+![img](screenshots/ss2.png)  
+![img](screenshots/ss3.png)  
+
+
 
 ---
 <h3 align="center"><b>Developed with :heart: by <a href="https://github.com/rushabhgandhi13">Rushabh Gandhi</a>.</b></h1>
