@@ -3,15 +3,17 @@
   <br>
   <h3>A python code that fetches all the mysql schemas dynamically and converts the mysql data to json</h3>
 </div>
----
-### This project was developed as a part of second year Internal assessment
-#### Name-Rushabh Gandhi 
-#### Branch-Computer engineering -Sem 4 (B.tech)
-#### Subject- RDBMS 
-#### Faculty Name- Vaibhav Vasani 
-#### College- K.J.Somaiya College Of Engineering 
- 
 
+---
+
+###  This project was developed as a part of second year Internal assessment
+####  Name-Rushabh Gandhi 
+####  Branch-Computer engineering -Sem 4 (B.tech)
+####  Subject- RDBMS 
+####  Faculty Name- Vaibhav Vasani 
+####  College- K.J.Somaiya College Of Engineering 
+ 
+---
 
 
 ---
