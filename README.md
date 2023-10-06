@@ -16,7 +16,7 @@
 ---
 
 
-
+<hr>
   
 ### To run this project :
 
@@ -47,6 +47,8 @@ Title: Data Conversion from Traditional Relational Database to MongoDB using XAM
 Find the link to the paper ( [link](https://github.com/rushabhgandhi13/Mysql-Json-converter/blob/main/Ieee_paper.pdf "link") ). Also find the explaination to the paper in the power point presention ( [link](https://github.com/rushabhgandhi13/Mysql-Json-converter/blob/main/ieee_1911012.pptx "link") )
 
 
+<hr>
+
 -Snapshots of the project :
 
 ![img](screenshots/ss1.PNG)
@@ -58,6 +60,5 @@ Finally the file gets stored in demo.json file
 ![img](screenshots/ss5.PNG) 
 
 
-
----
+<hr>
 <h3 align="center"><b>Developed with :heart: by <a href="https://github.com/rushabhgandhi13">Rushabh Gandhi</a>.</b></h1>
